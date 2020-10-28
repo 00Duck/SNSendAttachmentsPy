@@ -1,0 +1,11 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+*.log
+
+# IDE - VSCode
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
